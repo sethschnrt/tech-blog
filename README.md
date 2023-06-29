@@ -34,6 +34,9 @@ If you have any questions about the repo, open an issue or contact me directly a
 
 ## Screenshot
 
+![image](https://github.com/sethschnrt/tech-blog/assets/127680441/422e2267-1bd0-402e-8349-5a2dfed96073)
+
+
 ## Link to Application
 
 Live at : https://pure-escarpment-96333-a9295e0574cf.herokuapp.com/
